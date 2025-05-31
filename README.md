@@ -1,4 +1,4 @@
-# SolDexTracker
+# SolanaDexTracker
 
 A Solana-based DEX tracker and analytics tool.
 
