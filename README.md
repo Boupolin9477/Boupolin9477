@@ -11,7 +11,7 @@ To provide real-time, reliable, and user-friendly tracking of decentralized exch
 - Custom alerts for price movements
 
 ## Development Team
-Currently developed by [Boupolin9477](https://github.com/Boupolin9477).
+Currently developed by (https://github.com/Boupolin9477).
 
 ## Contact
 Email: bpolinmonyka@gmail.com
